@@ -1,0 +1,2 @@
+https://cryptii.com/pipes/hex-decoder
+/. the site for decode the hex you got from the app (the app will decode it automatically)
